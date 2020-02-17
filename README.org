@@ -1,0 +1,15 @@
+
+* Notes about main statistics methodologies 
+
+** intro to baysian a/b testing
+
+   *WIP*
+
+** Intro to common probabilities 
+
+   **TODO**
+
+   * Gaussian
+   * Poisson
+   * Binomial
+   * t-student 
