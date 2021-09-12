@@ -6,14 +6,16 @@
 
 ** Intro to baysian a/b testing
    
-   **WIP* 
+   **WIP**
 
    [[file:dev/2020-02-13-lhof-abtesting.ipynb]]
 
 ** Intro to common probabilities 
 
-   **TODO**
-
+   **WIP**
+   
+   [[file:dev/intro_prob_distribution.ipynb]]
+   
    * Gaussian
    * Poisson
    * Binomial
