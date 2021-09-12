@@ -1,9 +1,8 @@
-
 * Notes about main statistics methodologies 
   
 ** Intro to GLM (Generalized Linear Models)
 
-   [[file:/mnt/sdb1/leandro/statistics/dev/2020-05-21-glm_models.ipynb]]
+   [[file:dev/2020-05-21-glm_models.ipynb]]
 
 ** Intro to baysian a/b testing
    
