@@ -20,3 +20,5 @@
    * Poisson
    * Binomial
    * t-student 
+
+     
