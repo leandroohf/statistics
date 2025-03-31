@@ -1,11 +1,13 @@
-* Notes about main statistics methodologies 
-  
+* Notes about main statistics methodologies
+
 ** Intro to GLM (Generalized Linear Models)
+
+   **TODO**
 
    [[file:dev/2020-05-21-glm_models.ipynb]]
 
 ** Intro to baysian a/b testing
-   
+
    **WIP**
 
    [[file:dev/2020-02-13-lhof-abtesting.ipynb]]
@@ -13,12 +15,11 @@
 ** Intro to common probabilities 
 
    **WIP**
-   
-   [[file:dev/intro_prob_distribution.ipynb]]
-   
-   * Gaussian
-   * Poisson
-   * Binomial
-   * t-student 
 
-     
+   [[file:statistics_probability_cheat_sheet.ipynb]]
+
+   * +Normal+
+   * +t-student+
+   * Poisson (TODO)
+   * Binomial (TODO)
+
