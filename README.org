@@ -1,4 +1,4 @@
-* Notes about main statistics methodologies
+* Notes about main statistics methodologiesgs
 
 ** Intro to GLM (Generalized Linear Models)
 
