@@ -1,4 +1,4 @@
-* Notes about main statistics methodologiesgs
+* Notes about main statistics methodologies
 
 ** Intro to GLM (Generalized Linear Models)
 
@@ -12,7 +12,7 @@
 
    [[file:dev/2020-02-13-lhof-abtesting.ipynb]]
 
-** Intro to common probabilities 
+** Intro to common probabilities
 
    **WIP**
 
